@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.35313887.chunk.css",
-    "main.js": "/static/js/main.3a61c685.chunk.js",
-    "main.js.map": "/static/js/main.3a61c685.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.ed1e27ba.chunk.css": "/static/css/2.ed1e27ba.chunk.css",
-    "static/js/2.ffcd71f5.chunk.js": "/static/js/2.ffcd71f5.chunk.js",
-    "static/js/2.ffcd71f5.chunk.js.map": "/static/js/2.ffcd71f5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ea349acd0bcc29db25bc2bae19706dc0.js": "/precache-manifest.ea349acd0bcc29db25bc2bae19706dc0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.ed1e27ba.chunk.css.map": "/static/css/2.ed1e27ba.chunk.css.map",
-    "static/css/main.35313887.chunk.css.map": "/static/css/main.35313887.chunk.css.map",
-    "static/media/index.css": "/static/media/merriweather-latin-900italic.e1b4d2aa.woff2"
+    "main.css": "/Shubhayu-Das.github.io/static/css/main.35313887.chunk.css",
+    "main.js": "/Shubhayu-Das.github.io/static/js/main.508dffc0.chunk.js",
+    "main.js.map": "/Shubhayu-Das.github.io/static/js/main.508dffc0.chunk.js.map",
+    "runtime~main.js": "/Shubhayu-Das.github.io/static/js/runtime~main.74b8d759.js",
+    "runtime~main.js.map": "/Shubhayu-Das.github.io/static/js/runtime~main.74b8d759.js.map",
+    "static/css/2.cc174262.chunk.css": "/Shubhayu-Das.github.io/static/css/2.cc174262.chunk.css",
+    "static/js/2.ffcd71f5.chunk.js": "/Shubhayu-Das.github.io/static/js/2.ffcd71f5.chunk.js",
+    "static/js/2.ffcd71f5.chunk.js.map": "/Shubhayu-Das.github.io/static/js/2.ffcd71f5.chunk.js.map",
+    "index.html": "/Shubhayu-Das.github.io/index.html",
+    "precache-manifest.e5678bfcc2dcd4711b3759846e0a5692.js": "/Shubhayu-Das.github.io/precache-manifest.e5678bfcc2dcd4711b3759846e0a5692.js",
+    "service-worker.js": "/Shubhayu-Das.github.io/service-worker.js",
+    "static/css/2.cc174262.chunk.css.map": "/Shubhayu-Das.github.io/static/css/2.cc174262.chunk.css.map",
+    "static/css/main.35313887.chunk.css.map": "/Shubhayu-Das.github.io/static/css/main.35313887.chunk.css.map",
+    "static/media/index.css": "/Shubhayu-Das.github.io/static/media/merriweather-latin-900italic.e1b4d2aa.woff2"
   }
 }
